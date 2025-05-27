@@ -54,14 +54,11 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaypy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaypy&layout=compact&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaypy&layout=compact&theme=tokyonight) -->
 
 ## 📫 Contact Me
 
